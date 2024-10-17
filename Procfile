@@ -1,0 +1,1 @@
+web: nginx -c /path/to/nginx.conf && node backend/server.js 
